@@ -1,13 +1,13 @@
 ## FoodFresh
 ![foodfresh-logo](https://github.com/benkw26/ADIProject/assets/139574358/480a30d8-162e-43be-a789-5a89637f2222)
 
-### FoodFresh is a prototype product developed during our 10 week summer internship at ADI that goes in a fridge and uses an array of gas sensors and machine learning to detect the state of food, classifying it into good and bad for consumption. This repository houses the source code for the data analysis, along with the 3D CAD models, and the presentation we used to create this prototype.  
+### FoodFresh is a prototype product developed during our 10 week summer internship at ADI that goes in a fridge and uses an array of gas sensors and machine learning to detect the state of food, classifying it into good and bad for consumption. We are not allowed to release all of our code, PCB designs and 3D CAD designs, so we have attached photos and videos below instead. 
 
 ## Product
 
 ## Hardware
 ![7fed8731-de5a-4882-ac91-05f4272021d2](https://github.com/benkw26/ADIProject/assets/139574358/61dbfdaa-7cf9-4c14-ad59-47b029221ff0)
-### The hardware parts required for this project along with the cost, and the link to purchase them can be found in the ADIproject/Final_Presentation                                                                                                                          
+                                                                                                                         
 ### Required Parts for Product can be split into three categories, the perfboard, and the two PCB's: 
 Perfboard:                               
 1x Arduino Nano |
@@ -33,11 +33,11 @@ Version 2:
 1x TGS-2611 |
 3x LED |
 
-### Circuit diagram for the PCB'S and the connections for the Perfboard#
+### Circuit diagram for the PCB'S and the connections for the Perfboard
 
 
 ## Software
-### Originally started with Arduino, went to raspberry Pi to collect data. Went to Python for data analysis and then used Arduino ide to flash the arduino
+
 ### Little bit about PCA and clustering
 
 ## Assembly
