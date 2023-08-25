@@ -41,6 +41,4 @@ Version 2:
 ### Little bit about PCA and clustering
 
 ## Assembly
-### There are four different assemblies created for this product based on the stage of development. There is an enclosure for the Perfboard design that includes space for 4 AA batteries, an enclosure for PCB1 with 4 AA batteries, an enclosure for PCB2 with 2 AAA batteries, and a final enclosure for PCB2 with no batteries, and power being drawn from the fridge. The outer shell/case and the other components of the FoodFresh enclosure is meant to be 3D printed and assembled. The pieces slot in very well, however it is important that the 3D printer used is of high quality. and the infill density is relatively high for the Lids due to the number of small details present. The 3D models and SolidWorks files and assemblies for the case can be found under 
-ADIProject/Enclosure/
-
+### There are four different assemblies created for this product based on the stage of development. There is an enclosure for the Perfboard design that includes space for 4 AA batteries, an enclosure for PCB1 with 4 AA batteries, an enclosure for PCB2 with 2 AAA batteries, and a final enclosure for PCB2 with no batteries, and power being drawn from the fridge. The outer shell/case and the other components of the FoodFresh enclosure is meant to be 3D printed and assembled. The pieces slot in very well, however it is important that the 3D printer used is of high quality. and the infill density is relatively high for the Lids due to the number of small details present. 
